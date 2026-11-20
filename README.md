@@ -1,2 +1,2 @@
 # git_hub
-This is GitHUb lecture practice folder.
+This is GitHUb lecture practice folder(Apna College practice)
